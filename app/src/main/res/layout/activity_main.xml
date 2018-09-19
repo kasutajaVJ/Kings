@@ -7,11 +7,10 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/btn_next"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="next"
-        android:text="@string/btn_next" />
+        android:text="@string/btnnext" />
 
     <ListView
         android:id="@+id/lst_kings1"
